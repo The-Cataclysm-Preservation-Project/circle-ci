@@ -1,6 +1,6 @@
 image_config: &image_config
   IMAGE_NAME: circle-ci
-  IMAGE_TAG: 4.3.4-buildpacks-disco
+  IMAGE_TAG: 4.3.4-buildpacks-focal
 
 version: 2
 jobs:
